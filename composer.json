@@ -1,5 +1,5 @@
 {
-    "name": "felipedesQ/shared-object",
+    "name": "felipedesq/shared-object",
     "description": "Shared domain files and object",
     "type": "library",
     "minimum-stability": "dev",
