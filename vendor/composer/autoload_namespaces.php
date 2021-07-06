@@ -6,4 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'PhpSpec' => array($vendorDir . '/phpspec/phpspec/src'),
+    'Diff' => array($vendorDir . '/phpspec/php-diff/lib'),
 );
